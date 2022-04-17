@@ -1,0 +1,19 @@
+{
+    "name": "gabriel/brasil-api",
+    "description": "Provide all Brasil API routes ready to be use.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gabriel\\BrasilApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel",
+            "email": "gabrieldebem72@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
